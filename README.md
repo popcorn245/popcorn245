@@ -1,5 +1,7 @@
 ## What's Poppin 🍿
 ![Popcorn245's GitHub stats](https://github-readme-stats.vercel.app/api?username=popcorn245&show_icons=true)
+[![Popcorn245's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=popcorn245)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **popcorn245/popcorn245** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
